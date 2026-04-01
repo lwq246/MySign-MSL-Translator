@@ -1,7 +1,6 @@
 # MySign: Real-Time Malaysian Sign Language (MSL) Translator 🇲🇾
 
-**[🔗 Live Demo Application](https://msl-streamlit-app.pages.dev/)** | **[📂 Data Preprocessing Source](https://drive.google.com/drive/folders/1e7yC9Njd8fv92oJLSaZGo17eBwrv2wjY?usp=sharing)**
-
+**[🔗 Live Demo Application](https://msl-streamlit-app.pages.dev/)**
 MySign is an end-to-end AI-powered translation system designed to bridge the communication gap for the Deaf community in Malaysia. Unlike traditional image-based models, MySign uses **3D skeletal landmarks** and **Temporal Convolutional Networks (TCN)** to recognize dynamic gestures in real-time.
 
 ---
